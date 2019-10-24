@@ -1,3 +1,6 @@
 spark-warehouse/*
 *.csv
 .ipynb_checkpoints/*
+spark-warehouse/*
+target/*
+project/*
